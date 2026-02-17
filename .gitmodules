@@ -10,3 +10,9 @@
 [submodule "mosaic-ros2"]
 	path = mosaic-ros2
 	url = https://github.com/ACSL-MOSAIC/mosaic-ros2.git
+[submodule "examples/mosaic-turtlebot3-wo-ros-example"]
+	path = examples/mosaic-turtlebot3-wo-ros-example
+	url = https://github.com/ACSL-MOSAIC/mosaic-turtlebot3-wo-ros-example.git
+[submodule "examples/mosaic-isaac-sim-example"]
+	path = examples/mosaic-isaac-sim-example
+	url = https://github.com/ACSL-MOSAIC/mosaic-isaac-sim-example.git
